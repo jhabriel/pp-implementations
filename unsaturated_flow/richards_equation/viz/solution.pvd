@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<VTKFile type="Collection" version="0.1" byte_order="LittleEndian" compressor="vtkZLibDataCompressor">
+<Collection>
+	<DataSet group="" part="" timestep="0.000000" file="solution_000000.vtu"/>
+	<DataSet group="" part="" timestep="25920.000000" file="solution_000001.vtu"/>
+	<DataSet group="" part="" timestep="51840.000000" file="solution_000002.vtu"/>
+	<DataSet group="" part="" timestep="77760.000000" file="solution_000003.vtu"/>
+	<DataSet group="" part="" timestep="103680.000000" file="solution_000004.vtu"/>
+	<DataSet group="" part="" timestep="129600.000000" file="solution_000005.vtu"/>
+	<DataSet group="" part="" timestep="155520.000000" file="solution_000006.vtu"/>
+	<DataSet group="" part="" timestep="181440.000000" file="solution_000007.vtu"/>
+	<DataSet group="" part="" timestep="207360.000000" file="solution_000008.vtu"/>
+	<DataSet group="" part="" timestep="233280.000000" file="solution_000009.vtu"/>
+	<DataSet group="" part="" timestep="259200.000000" file="solution_000010.vtu"/>
+</Collection>
+</VTKFile>
