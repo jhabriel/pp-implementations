@@ -19,6 +19,6 @@ To be able to run the notebooks, you should have a Python 3.6 distribution insta
 2. mandel.ipynb: Classical Mandel's two-dimensional consolidation problem
 3. biot_convergence: Convergnce analyisi on an unit square using a manufactured solution.
 
-## Unsaturated flow in deformable porous media (a.k.a. Unsaturated Biot's equations)
+### Unsaturated flow in deformable porous media (a.k.a. Unsaturated Biot's equations)
 
 1. unsat_poro_conv_test_1.ipynb: Convergence analysis #1 on an unit square using a manufactured solution.
