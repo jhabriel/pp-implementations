@@ -22,3 +22,4 @@ To be able to run the notebooks, you should have a Python 3.6 distribution insta
 ### Unsaturated flow in non-fractured deformable porous media (a.k.a. Unsaturated Biot's equations)
 
 1. unsat_poro_conv_test_1.ipynb: Convergence analysis #1 on an unit square using a manufactured solution.
+2. unsat_poro_conv_test_2.ipynb: Convergence analysis #2: inclusion of van Genuchten curves and gravity effects.
