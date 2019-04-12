@@ -10,20 +10,19 @@ u = [t*x*(1-x)*y*(1-y), -t*x*(1-x)*y*(1-y)];
 p = -t*x*(1-x)*y*(1-y)-1;
 
 %% Constants 
-C_f = 1;
-C_s = 1;
-K = 1;
-n  = 0.5;
-alpha = 1;
-mu_s = 1;
-lambda_s = 1;
-mu_f = 1;
-
+C_f = 1;         % Fluid compressibility
+C_s = 1;         % Solid compressibility
+K = 1;           % Permeability
+n  = 0.5;        % Porosity
+alpha = 1;       % Biot's coefficient
+mu_s = 1;        % Lame parameter
+lambda_s = 1;    % Lame parameter
+mu_f = 1;        % Viscosity
 
 %% Consitutive relationships
-Sw = 1/(1-p);
-krw = p^2;
-C = 1/((1-p)^2);
+Sw = 1/(1-p);    % Saturation
+krw = p^2;       % Relative permeability
+C = 1/((1-p)^2); % Specific saturation capacity
 
 %% Constant terms
 chi_1 = (alpha-n)*C_s*Sw^2 + n*C_f*Sw;
