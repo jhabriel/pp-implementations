@@ -11,7 +11,7 @@ To be able to run the notebooks, you should have a Python 3.6 distribution insta
 ### Unsaturated flow
 
 1. richards.ipynb: Pseudo-one dimensional water infiltration in a homogeneous soil column.
-2. convergence_richards.ipynb: Convergence analysis #1: simple non-linear relationship for theta(psi), C^{theta}(psi) and krw(psi).
+2. convergence_richards_1.ipynb: Convergence analysis #1: simple non-linear relationship for theta(psi), C^{theta}(psi) and krw(psi).
 3. convergence_richads_2.ipynb: Convergence analysis #2: inclusion of van Genuchtem-Mualem curves instead of simplistic non-linear relationship.
 
 ### Linear poroelasticity
