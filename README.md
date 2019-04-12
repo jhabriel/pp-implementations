@@ -8,19 +8,19 @@ To be able to run the notebooks, you should have a Python 3.6 distribution insta
 
 ## Table of contents
 
-### Unsaturated flow in non-fractured non-deformable porous media (a.k.a. Richards' equation)
+### Unsaturated flow
 
 1. richards.ipynb: Pseudo-one dimensional water infiltration in a homogeneous soil column.
 2. convergence_richards.ipynb: Convergence analysis #1: simple non-linear relationship for theta(psi), C^{theta}(psi) and krw(psi).
 3. convergence_richads_2.ipynb: Convergence analysis #2: inclusion of van Genuchtem-Mualem curves instead of simplistic non-linear relationship.
 
-### Saturated flow in non-fractured deformable porous media (a.k.a. Biot's equations)
+### Linear poroelasticity
 
 1. terzaghi.ipynb: Pseudo-one dimensional Terzaghi's consoladation problem.
 2. mandel.ipynb: Mandel's two-dimensional consolidation problem
 3. biot_convergence: Convergence analysis on an unit square using a manufactured solution.
 
-### Unsaturated flow in non-fractured deformable porous media (a.k.a. Unsaturated Biot's equations)
+### Unsaturated linear poroelasticity
 
 1. unsat_poro_conv_test_1.ipynb: Convergence analysis #1: simple non-linear relationship for S(p), C^S(p) and k_r^w(p).
 2. unsat_poro_conv_test_2.ipynb: Convergence analysis #2: inclusion of (modified) van Genuchten-Mualem curves and gravity effects instead of simplistic non-linear relationship.
