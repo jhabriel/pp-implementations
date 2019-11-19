@@ -6,7 +6,7 @@ The test cases are presented in Jupyter Notebooks and are intended to be self-ex
 
 To be able to run the notebooks, you should have a Python 3.6 distribution installed in your machine and the latest PorePy realease (see www.github.com/pmgbergen/porepy). It will be wise to check at least a few tutorials from PorePy, specially the MPFA, MPSA, Biot and Automatic Differentiation tutorials, which are used extensively.
 
-## Table of contents
+## Table of contents :)
 
 ### Unsaturated flow
 
